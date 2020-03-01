@@ -1,0 +1,22 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mery7484/myWebsite.git"
+  },
+  "author": "meri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mery7484/myWebsite/issues"
+  },
+  "homepage": "https://mery7484.github.io/myWebsite",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
